@@ -1,1 +1,1 @@
-# rsschool-cv
+# https://doxideniss.github.io/rsschool-cv/cv
