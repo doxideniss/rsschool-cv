@@ -4,7 +4,7 @@
 **Telegram:** @Doxideniss
 ## Summary
 My goal is to become a programmer, namely Front End, but in the future I want to be a FullStack
-## Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
+## Skills
 HTML, CSS, JS, one pet project on NodeJs, learning ReactJs
 ## Code examples
 You can find the best code examples in my profile [GitHub](https://github.com/doxideniss)
